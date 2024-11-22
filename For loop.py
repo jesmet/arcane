@@ -1,5 +1,5 @@
 #day3
-#fir loop
+#for loop
 
 #Prompt the user to input a number N.
 
