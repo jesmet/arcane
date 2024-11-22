@@ -7,3 +7,7 @@
 #N x 1 = result
 #N x 2 = result
 #And so on, up to N x 10 
+
+
+
+
