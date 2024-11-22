@@ -23,4 +23,3 @@
 
 #"Stay cool and hydrated indoors."
 
-#If the input is not a valid number the program should output: "Invalid input. Please enter a number"
